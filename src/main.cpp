@@ -1,16 +1,4 @@
 
-// #include <iostream>
-
-// int main() {
-//     std::cout << "CppScript compiler development started!\n";
-//     std::cout << "Language version: 0.1.0\n";
-
-//     return 0;
-// }
-
-
-
-
 #include "cppscript/lexer.hpp"
 
 #include <fstream>

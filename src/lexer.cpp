@@ -1,4 +1,3 @@
-
 #include "cppscript/lexer.hpp"
 
 #include <cctype>
