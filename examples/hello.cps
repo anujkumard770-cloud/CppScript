@@ -1,8 +1,8 @@
 
 show("Hello, dosto!");
-show("Welcome to CppScript.");
+show("Welcome from CppScript.");
 
 state int primary() {
-    show("My own programming language!");
+    show("This is my own programming language!");
     bring 0;
 }
